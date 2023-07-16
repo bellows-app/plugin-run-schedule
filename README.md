@@ -1,3 +1,3 @@
-# plugin-run-schedule
+# Bellows Run Schedule Plugin
 
-[https://bellows.dev](https://bellows.dev)
+[https://bellows.dev/docs/plugins/run-schedule](https://bellows.dev/docs/plugins/run-schedule)
